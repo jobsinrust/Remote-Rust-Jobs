@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Rust Jobs — 2026
 
-<sub><small>Last updated: Oct 29, 2026 at 18:43 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2026 at 17:59 UTC</small></sub>
 
 Daily remote Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-account-executive-product-sales-terminal-f55b5656?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Account Executive, Product Sales (Terminal)](https://jobsinrust.com/jobs/stripe-account-executive-product-sales-terminal-f55b5656?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | US-SF, US-NY, US-Remote | Remote | Full Time | Oct 29 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-regional-manager-sales-engineering-key-accounts-east-f96a5972?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Regional Manager, Sales Engineering - Key Accounts (East)](https://jobsinrust.com/jobs/datadog-regional-manager-sales-engineering-key-accounts-east-f96a5972?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | New York, USA, Remote | Remote | Full Time | Oct 29 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-senior-field-marketing-manager-public-sector-federal-and-defense-2cb39976?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Senior Field Marketing Manager - Public Sector, Federal & Defense](https://jobsinrust.com/jobs/datadog-senior-field-marketing-manager-public-sector-federal-and-defense-2cb39976?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | District of Columbia, USA, Remote | Remote | Full Time | Oct 29 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-director-corporate-fp-and-a-united-states-remote-b954d397?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Senior Director, Corporate FP&A \| United States \| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-director-corporate-fp-and-a-united-states-remote-b954d397?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Oct 25 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-principal-technical-marketing-engineer-us-remote-f047099a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Principal Technical Marketing Engineer \| US \| Remote](https://jobsinrust.com/jobs/grafana-labs-principal-technical-marketing-engineer-us-remote-f047099a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Oct 23 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-principal-technical-marketing-engineer-uk-remote-b824ef1b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Principal Technical Marketing Engineer \| UK \| Remote](https://jobsinrust.com/jobs/grafana-labs-principal-technical-marketing-engineer-uk-remote-b824ef1b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United Kingdom (Remote) | Remote | Full Time | Oct 23 |
@@ -57,12 +60,12 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 ---
 
-**Current Stats:** 42 jobs | 100% remote | 6 companies | 9 salary ranges listed
+**Current Stats:** 45 jobs | 100% remote | 6 companies | 9 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-29 archive](archive/2026-10-29.md)
+- [2026-10-30 archive](archive/2026-10-30.md)
 
 ## About This Repository
 
