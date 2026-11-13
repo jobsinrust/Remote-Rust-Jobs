@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily remote Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-major-account-executive-remote-sweden-dea66f75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Major Account Executive \| Remote \| Sweden](https://jobsinrust.com/jobs/grafana-labs-major-account-executive-remote-sweden-dea66f75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Sweden (Remote) | Remote | Full Time | Nov 13 |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-analyst-relations-senior-manager-c0ba2b9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Analyst Relations Senior Manager](https://jobsinrust.com/jobs/stripe-analyst-relations-senior-manager-c0ba2b9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote in the US | Remote | Full Time | Nov 12 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-fd20c375?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Sales Executive](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-fd20c375?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Colombia, Remote | Remote | Full Time | Nov 11 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-strategic-account-executive-568ec678?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Strategic Account Executive](https://jobsinrust.com/jobs/datadog-strategic-account-executive-568ec678?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Colombia, Remote | Remote | Full Time | Nov 11 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-director-enterprise-sales-d252ef56?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Director, Enterprise Sales](https://jobsinrust.com/jobs/datadog-director-enterprise-sales-d252ef56?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Colombia, Remote | Remote | Full Time | Nov 11 |
@@ -60,12 +62,12 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 ---
 
-**Current Stats:** 45 jobs | 100% remote | 5 companies | 9 salary ranges listed
+**Current Stats:** 47 jobs | 100% remote | 5 companies | 9 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 
