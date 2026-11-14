@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
 
 Daily remote Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-enterprise-west-62f952de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Head of Enterprise, West](https://jobsinrust.com/jobs/stripe-head-of-enterprise-west-62f952de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | San Francisco, Seattle, Chicago or Remote | Remote | Full Time | Nov 13 |
+| **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-enterprise-sales-marketplaces-1461cdfa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Head of Enterprise Sales, Marketplaces](https://jobsinrust.com/jobs/stripe-head-of-enterprise-sales-marketplaces-1461cdfa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | US-Chicago, US-Seattle, US-San Francisco, US-Remote | Remote | Full Time | Nov 13 |
+| **[Mozilla](https://jobsinrust.com/jobs/mozilla-vp-mozilla-studio-223391f8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[VP, Mozilla Studio](https://jobsinrust.com/jobs/mozilla-vp-mozilla-studio-223391f8?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote Canada; Remote Germany; Remote UK; Remote US | Remote | Full Time | Nov 13 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-major-account-executive-remote-sweden-dea66f75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Major Account Executive \| Remote \| Sweden](https://jobsinrust.com/jobs/grafana-labs-major-account-executive-remote-sweden-dea66f75?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Sweden (Remote) | Remote | Full Time | Nov 13 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-analyst-relations-senior-manager-c0ba2b9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Analyst Relations Senior Manager](https://jobsinrust.com/jobs/stripe-analyst-relations-senior-manager-c0ba2b9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote in the US | Remote | Full Time | Nov 12 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-fd20c375?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Sales Executive](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-fd20c375?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Colombia, Remote | Remote | Full Time | Nov 11 |
@@ -37,8 +40,6 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-central-remote-7f8ae576?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Account Executive, Acquisition \| Central \| Remote](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-central-remote-7f8ae576?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 2 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-remote-spain-c5762271?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Account Executive, Acquisition \| Remote \| Spain](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-remote-spain-c5762271?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Spain (Remote) | Remote | Full Time | Oct 30 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-account-executive-product-sales-terminal-f55b5656?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Account Executive, Product Sales (Terminal)](https://jobsinrust.com/jobs/stripe-account-executive-product-sales-terminal-f55b5656?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | US-SF, US-NY, US-Remote | Remote | Full Time | Oct 29 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-regional-manager-sales-engineering-key-accounts-east-f96a5972?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Regional Manager, Sales Engineering - Key Accounts (East)](https://jobsinrust.com/jobs/datadog-regional-manager-sales-engineering-key-accounts-east-f96a5972?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | New York, USA, Remote | Remote | Full Time | Oct 29 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-senior-field-marketing-manager-public-sector-federal-and-defense-2cb39976?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Senior Field Marketing Manager - Public Sector, Federal & Defense](https://jobsinrust.com/jobs/datadog-senior-field-marketing-manager-public-sector-federal-and-defense-2cb39976?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | District of Columbia, USA, Remote | Remote | Full Time | Oct 29 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-major-account-manager-2108aa32?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Major Account Manager](https://jobsinrust.com/jobs/datadog-major-account-manager-2108aa32?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Michigan, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote | Remote | Full Time | Oct 28 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote UK | Remote | Full Time | Oct 22 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-27d274ef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-27d274ef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote France | Remote | Full Time | Oct 22 |
@@ -62,12 +63,12 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 ---
 
-**Current Stats:** 47 jobs | 100% remote | 5 companies | 9 salary ranges listed
+**Current Stats:** 48 jobs | 100% remote | 5 companies | 9 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-13 archive](archive/2026-11-13.md)
+- [2026-11-14 archive](archive/2026-11-14.md)
 
 ## About This Repository
 
