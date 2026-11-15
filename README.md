@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
 
 Daily remote Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs).
@@ -39,7 +39,6 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Datadog](https://jobsinrust.com/jobs/datadog-director-enterprise-sales-sled-a2396b1f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Director, Enterprise Sales (SLED)](https://jobsinrust.com/jobs/datadog-director-enterprise-sales-sled-a2396b1f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | District of Columbia, USA, Remote; Georgia, USA, Remote; North Carolina, USA, Remote | Remote | Full Time | Nov 2 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-central-remote-7f8ae576?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Account Executive, Acquisition \| Central \| Remote](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-central-remote-7f8ae576?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 2 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-remote-spain-c5762271?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Account Executive, Acquisition \| Remote \| Spain](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-remote-spain-c5762271?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Spain (Remote) | Remote | Full Time | Oct 30 |
-| **[Stripe](https://jobsinrust.com/jobs/stripe-account-executive-product-sales-terminal-f55b5656?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Account Executive, Product Sales (Terminal)](https://jobsinrust.com/jobs/stripe-account-executive-product-sales-terminal-f55b5656?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | US-SF, US-NY, US-Remote | Remote | Full Time | Oct 29 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-major-account-manager-2108aa32?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Major Account Manager](https://jobsinrust.com/jobs/datadog-major-account-manager-2108aa32?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Michigan, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote | Remote | Full Time | Oct 28 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote UK | Remote | Full Time | Oct 22 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-27d274ef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-27d274ef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote France | Remote | Full Time | Oct 22 |
@@ -63,12 +62,12 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 ---
 
-**Current Stats:** 48 jobs | 100% remote | 5 companies | 9 salary ranges listed
+**Current Stats:** 47 jobs | 100% remote | 5 companies | 9 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-14 archive](archive/2026-11-14.md)
+- [2026-11-15 archive](archive/2026-11-15.md)
 
 ## About This Repository
 
