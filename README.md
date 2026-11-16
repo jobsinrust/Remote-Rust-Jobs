@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2026 at 21:58 UTC</small></sub>
 
 Daily remote Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs).
@@ -59,15 +59,16 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[InfluxData](https://jobsinrust.com/jobs/influxdata-director-of-finance-9f92d3a5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Director of Finance](https://jobsinrust.com/jobs/influxdata-director-of-finance-9f92d3a5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote Oregon | Remote | Full Time | Apr 10 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-dbcfb96d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Sales Executive](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-dbcfb96d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Texas, USA, Remote | Remote | Full Time | Mar 26 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-key-accounts-executive-877f4c1a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Key Accounts Executive](https://jobsinrust.com/jobs/datadog-key-accounts-executive-877f4c1a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Illinois, USA, Remote; Michigan, USA, Remote; Minnesota, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote | Remote | Full Time | Feb 3 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-major-account-manager-uk-b84b41c1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Major Account Manager (UK)](https://jobsinrust.com/jobs/datadog-major-account-manager-uk-b84b41c1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United Kingdom, Remote | Remote | Full Time | Sep 15 |
 
 ---
 
-**Current Stats:** 47 jobs | 100% remote | 5 companies | 9 salary ranges listed
+**Current Stats:** 48 jobs | 100% remote | 5 companies | 9 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-15 archive](archive/2026-11-15.md)
+- [2026-11-16 archive](archive/2026-11-16.md)
 
 ## About This Repository
 
