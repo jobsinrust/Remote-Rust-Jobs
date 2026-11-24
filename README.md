@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
 
 Daily remote Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs).
@@ -44,12 +44,7 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-5a9a9e15?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Sales Executive](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-5a9a9e15?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote | Remote | Full Time | Nov 6 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-core-recruiter-fixed-term-c3dfb9ab?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Core Recruiter (Fixed Term)](https://jobsinrust.com/jobs/stripe-core-recruiter-fixed-term-c3dfb9ab?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Chicago, Remote | Remote | Full Time | Nov 6 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-amer-data-analyst-sales-strategy-and-operations-579b33c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[AMER Data Analyst - Sales Strategy and Operations](https://jobsinrust.com/jobs/stripe-amer-data-analyst-sales-strategy-and-operations-579b33c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Chicago, US Remote, SF, NYC, Seattle | Remote | Full Time | Nov 6 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-commercial-account-executive-acquisition-north-east-remote-3c0c76a0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Senior Commercial Account Executive, Acquisition \| North East \| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-commercial-account-executive-acquisition-north-east-remote-3c0c76a0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 5 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-fullstack-engineer-grafana-catalog-us-remote-f8677d47?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Senior FullStack Engineer - Grafana Catalog \| US \| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-fullstack-engineer-grafana-catalog-us-remote-f8677d47?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 4 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-senior-fullstack-engineer-grafana-catalog-canada-remote-257a9410?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Senior FullStack Engineer - Grafana Catalog \| Canada\| Remote](https://jobsinrust.com/jobs/grafana-labs-senior-fullstack-engineer-grafana-catalog-canada-remote-257a9410?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Canada (Remote) | Remote | Full Time | Nov 4 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-firefox-enterprise-14bee8f2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Firefox Enterprise](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-firefox-enterprise-14bee8f2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote France | Remote | Full Time | Nov 3 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-new-york-remote-6c4c3812?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Account Executive, Acquisition \| New York \| Remote](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-new-york-remote-6c4c3812?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 3 |
-| **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-central-remote-7f8ae576?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Account Executive, Acquisition \| Central \| Remote](https://jobsinrust.com/jobs/grafana-labs-enterprise-account-executive-acquisition-central-remote-7f8ae576?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 2 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote UK | Remote | Full Time | Oct 22 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-27d274ef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-27d274ef?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote France | Remote | Full Time | Oct 22 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-02fd03a0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-02fd03a0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote Netherlands | Remote | Full Time | Oct 22 |
@@ -65,12 +60,12 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 5 companies | 14 salary ranges listed
+**Current Stats:** 45 jobs | 100% remote | 5 companies | 9 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-23 archive](archive/2026-11-23.md)
+- [2026-11-24 archive](archive/2026-11-24.md)
 
 ## About This Repository
 
