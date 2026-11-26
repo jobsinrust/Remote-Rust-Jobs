@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Rust Jobs — 2026
 
-<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2026 at 21:27 UTC</small></sub>
 
 Daily remote Rust jobs curated by Jobs in Rust.
 Updated daily by [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-engineer-germany-bada3092?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Sales Engineer - Germany](https://jobsinrust.com/jobs/datadog-enterprise-sales-engineer-germany-bada3092?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Germany, Remote | Remote | Full Time | Nov 26 |
+| **[Mozilla](https://jobsinrust.com/jobs/mozilla-certificate-authority-program-steward-1c02f7bb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Certificate Authority Program Steward](https://jobsinrust.com/jobs/mozilla-certificate-authority-program-steward-1c02f7bb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote Finland | Remote | Full Time | Nov 25 |
+| **[Datadog](https://jobsinrust.com/jobs/datadog-senior-developer-advocate-opentelemetry-921fb09a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Senior Developer Advocate, OpenTelemetry](https://jobsinrust.com/jobs/datadog-senior-developer-advocate-opentelemetry-921fb09a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote | Remote | Full Time | Nov 25 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-certificate-authority-program-steward-e0b03bc2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Certificate Authority Program Steward](https://jobsinrust.com/jobs/mozilla-certificate-authority-program-steward-e0b03bc2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote Germany | Remote | Full Time | Nov 25 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-staff-field-engineer-canada-remote-c098920a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Field Engineer \| Canada \| Remote](https://jobsinrust.com/jobs/grafana-labs-staff-field-engineer-canada-remote-c098920a?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Canada (Remote) | Remote | Full Time | Nov 20 |
 | **[Grafana Labs](https://jobsinrust.com/jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-usa-48ee8b2d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Engineering Manager - Grafana Infrastructure (Remote, USA)](https://jobsinrust.com/jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-usa-48ee8b2d?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | United States (Remote) | Remote | Full Time | Nov 20 |
@@ -41,7 +44,6 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-browser-new-products-097fff3c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Browser (New Products)](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-browser-new-products-097fff3c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote Canada | Remote | Full Time | Nov 10 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-browser-new-products-6f1af670?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Browser (New Products)](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-browser-new-products-6f1af670?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote US | Remote | Full Time | Nov 10 |
 | **[Stripe](https://jobsinrust.com/jobs/stripe-head-of-strategic-accounts-solutions-architecture-d979deb1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Head of Strategic Accounts, Solutions Architecture](https://jobsinrust.com/jobs/stripe-head-of-strategic-accounts-solutions-architecture-d979deb1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | San Francisco, CA or New York, NY or Remote | Remote | Full Time | Nov 9 |
-| **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-82e771d2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Sales Executive](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-82e771d2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Brazil, Remote; Sao Paulo, Brazil | Remote | Full Time | Nov 6 |
 | **[Datadog](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-5a9a9e15?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Enterprise Sales Executive](https://jobsinrust.com/jobs/datadog-enterprise-sales-executive-5a9a9e15?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote | Remote | Full Time | Nov 6 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-firefox-enterprise-14bee8f2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Firefox Enterprise](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-firefox-enterprise-14bee8f2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote France | Remote | Full Time | Nov 3 |
 | **[Mozilla](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | **[Staff Software Engineer, Tools & Systems](https://jobsinrust.com/jobs/mozilla-staff-software-engineer-tools-and-systems-993e93b3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-rust-jobs)** | Remote UK | Remote | Full Time | Oct 22 |
@@ -59,12 +61,12 @@ Visit [Jobs in Rust](https://jobsinrust.com?utm_source=github&utm_medium=repo&ut
 
 ---
 
-**Current Stats:** 44 jobs | 100% remote | 5 companies | 9 salary ranges listed
+**Current Stats:** 46 jobs | 100% remote | 5 companies | 9 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-25 archive](archive/2026-11-25.md)
+- [2026-11-26 archive](archive/2026-11-26.md)
 
 ## About This Repository
 
